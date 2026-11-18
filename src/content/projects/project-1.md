@@ -1,5 +1,5 @@
 ---
-title: 'Gestor Doméstico: la PWA que organiza tu hogar'
+title: 'Gestor Doméstico: La PWA que organiza tu hogar'
 description: Descubre cómo Gestor Doméstico utiliza las capacidades de las Aplicaciones Web Progresivas para ayudarte a gestionar tareas, compras, finanzas e inventario, incluso sin conexión a internet.
 publishDate: 'Nov 18 2026'
 ---

@@ -1,43 +1,41 @@
 ---
-title: About
+title: Sobre mí
 seo:
-  title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  title: Sobre mí
+  description: Conoce más sobre Gabriel Anuar Acosta Rosales, desarrollador web front end en formación.
   image:
     src: '../../assets/images/about.jpg'
-    alt: A person sitting at a desk in front of a computer
+    alt: Gabriel Acosta trabajando frente a una computadora
 ---
 
-![Alt text for image](../../assets/images/about.jpg)
+![Gabriel Acosta trabajando frente a una computadora](../../assets/images/about.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Gabriel Anuar Acosta Rosales — Desarrollador Web Front End
 
-## Ethan Donovan - Web Developer based in Estonia
+**¡Hola!** Soy Gabriel Anuar Acosta Rosales, desarrollador web front end en formación, ubicado en Nicolás Romero, Estado de México. Me apasiona construir interfaces accesibles, responsivas y funcionales, combinando creatividad y bases técnicas sólidas para crear experiencias digitales claras y útiles.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+## Formación
 
-## Skills and Expertise
+Actualmente curso la **Ingeniería en Desarrollo y Gestión de Software** en la **Universidad Tecnológica Fidel Velázquez**. Previamente concluí el **TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma** en la misma universidad, con título en trámite.
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+## Experiencia
 
-## Innovation and Problem-Solving
+Durante mi estadía profesional en **Genius Soft** (del 22 de mayo al 29 de agosto de 2025) trabajé como desarrollador web. Desarrollé una **PWA** para que personas con discapacidad física consultaran sus horarios y los días de sus clases deportivas. Creé una API propia e integré otras APIs con autenticación mediante **JWT**, y construí el front end a partir de los diseños en **Figma** del equipo de diseño, usando HTML, CSS, JavaScript y JSX.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+## Tecnologías y herramientas
 
-## Global Perspective, Local Impact
+Mi stack incluye **HTML**, **CSS**, **JavaScript** y **JSX**. Tengo experiencia con **PWA**, consumo y creación de **APIs**, autenticación con **JWT** y desarrollo **responsive**. En el día a día utilizo **Git** y **Git Bash** para control de versiones, **Figma** para interpretar y extraer diseños, y **Microsoft Teams** para coordinar con el equipo.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## Habilidades
 
-## Continuous Learning
+Me gustan los retos, el trabajo en equipo y aprender rápido. Soy puntual y responsable, y disfruto convertir ideas en soluciones funcionales y elegantes.
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+## Idiomas
 
-## Collaboration and Communication
+Hablo **español** de forma nativa y tengo conocimientos **básicos de inglés** (sin certificación por el momento).
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+## Contacto
 
-## Get in Touch
+¿Quieres colaborar en un proyecto, invitarme a un equipo o simplemente platicar sobre desarrollo web? ¡Me encantaría escucharte! Puedes escribirme a **gabrielanuar24@gmail.com** o llamarme al **55 7880 3294**.
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+_Construyamos algo increíble juntos._
