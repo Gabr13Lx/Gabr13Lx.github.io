@@ -7,14 +7,6 @@ seo:
   image:
     src: '../../assets/images/about.jpg'
     alt: Gabriel Acosta trabajando frente a una computadora
-
-  image:
-    src: '../../assets/images/utfv.jpg'
-    alt: Logo Universidad Tecnologica Fidel Velazquez
-
-  image:
-    src: '../../assets/images/stack.jpg'
-    alt: Logo Stack 
 ---
 
 ![Gabriel Acosta trabajando frente a una computadora](../../assets/images/about.jpg)
