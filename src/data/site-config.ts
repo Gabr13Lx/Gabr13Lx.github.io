@@ -60,10 +60,6 @@ const siteConfig: SiteConfig = {
     hero: {
         title: 'Hola, bienvenido a blog',
         text: "Soy **Gabriel Anuar Acosta Rosales**, desarrollador web front end en formación. Me enfoco en construir interfaces accesibles, responsivas y funcionales, con experiencia real en PWA, APIs con autenticación JWT y maquetación a partir de diseños en Figma.\n\nActualmente curso la Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica Fidel Velázquez, y ya concluí el TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma.\n\nMe gustan los retos, el trabajo en equipo y aprender rápido. Puedes ver algunos de mis proyectos en [GitHub](https://github.com/Gabr13Lx) o contactarme directamente.",
-        image: {
-            src: hero,
-            alt: 'Gabriel Acosta trabajando frente a una computadora'
-        },
         actions: [
             {
                 text: 'Contáctame',

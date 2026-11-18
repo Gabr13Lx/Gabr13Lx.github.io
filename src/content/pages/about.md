@@ -9,8 +9,6 @@ seo:
     alt: Gabriel Acosta trabajando frente a una computadora
 ---
 
-![Gabriel Acosta trabajando frente a una computadora](../../assets/images/about.jpg)
-
 ## Gabriel Anuar Acosta Rosales — Desarrollador Web Front End
 
 **¡Hola!** Soy Gabriel Anuar Acosta Rosales, desarrollador web front end en formación, ubicado en Nicolás Romero, Estado de México. Me apasiona construir interfaces accesibles, responsivas y funcionales, combinando creatividad y bases técnicas sólidas para crear experiencias digitales claras y útiles.
@@ -19,7 +17,6 @@ seo:
 
 Actualmente curso la **Ingeniería en Desarrollo y Gestión de Software** en la **Universidad Tecnológica Fidel Velázquez**. Previamente concluí el **TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma** en la misma universidad, con título en trámite.
 
-![Logo Universidad Tecnologica Fidel Velazquez](../../assets/images/utfv.png)
 
 ## Experiencia
 
@@ -28,8 +25,6 @@ Durante mi estadía profesional en **Genius Soft** (del 22 de mayo al 29 de agos
 ## Tecnologías y herramientas
 
 Mi stack incluye **HTML**, **CSS**, **JavaScript** y **JSX**. Tengo experiencia con **PWA**, consumo y creación de **APIs**, autenticación con **JWT** y desarrollo **responsive**. En el día a día utilizo **Git** y **Git Bash** para control de versiones, **Figma** para interpretar y extraer diseños, y **Microsoft Teams** para coordinar con el equipo.
-
-![Logo Stack](../../assets/images/stack.png)
 
 ## Habilidades
 
