@@ -71,14 +71,6 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    subscribe: {
-        enabled: true,
-        title: 'Suscríbete al newsletter',
-        text: 'Una actualización por semana. Lo último del blog directo a tu correo.',
-        form: {
-            action: '#'
-        }
-    },
     postsPerPage: 4,
     projectsPerPage: 4
 };

@@ -3,9 +3,18 @@ title: Sobre mí
 seo:
   title: Sobre mí
   description: Conoce más sobre Gabriel Anuar Acosta Rosales, desarrollador web front end en formación.
+
   image:
     src: '../../assets/images/about.jpg'
     alt: Gabriel Acosta trabajando frente a una computadora
+
+  image:
+    src: '../../assets/images/utfv.jpg'
+    alt: Logo Universidad Tecnologica Fidel Velazquez
+
+  image:
+    src: '../../assets/images/stack.jpg'
+    alt: Logo Stack 
 ---
 
 ![Gabriel Acosta trabajando frente a una computadora](../../assets/images/about.jpg)
@@ -18,6 +27,8 @@ seo:
 
 Actualmente curso la **Ingeniería en Desarrollo y Gestión de Software** en la **Universidad Tecnológica Fidel Velázquez**. Previamente concluí el **TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma** en la misma universidad, con título en trámite.
 
+![Logo Universidad Tecnologica Fidel Velazquez](../../assets/images/utfv.jpg)
+
 ## Experiencia
 
 Durante mi estadía profesional en **Genius Soft** (del 22 de mayo al 29 de agosto de 2025) trabajé como desarrollador web. Desarrollé una **PWA** para que personas con discapacidad física consultaran sus horarios y los días de sus clases deportivas. Creé una API propia e integré otras APIs con autenticación mediante **JWT**, y construí el front end a partir de los diseños en **Figma** del equipo de diseño, usando HTML, CSS, JavaScript y JSX.
@@ -25,6 +36,8 @@ Durante mi estadía profesional en **Genius Soft** (del 22 de mayo al 29 de agos
 ## Tecnologías y herramientas
 
 Mi stack incluye **HTML**, **CSS**, **JavaScript** y **JSX**. Tengo experiencia con **PWA**, consumo y creación de **APIs**, autenticación con **JWT** y desarrollo **responsive**. En el día a día utilizo **Git** y **Git Bash** para control de versiones, **Figma** para interpretar y extraer diseños, y **Microsoft Teams** para coordinar con el equipo.
+
+![Logo Stack](../../assets/images/stack.jpg)
 
 ## Habilidades
 
