@@ -3,10 +3,6 @@ title: Sobre mí
 seo:
   title: Sobre mí
   description: Conoce más sobre Gabriel Anuar Acosta Rosales, desarrollador web front end en formación.
-
-  image:
-    src: '../../assets/images/about.jpg'
-    alt: Gabriel Acosta trabajando frente a una computadora
 ---
 
 ## Gabriel Anuar Acosta Rosales — Desarrollador Web Front End
