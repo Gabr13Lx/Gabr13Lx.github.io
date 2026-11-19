@@ -4,11 +4,11 @@ description: Descubre cómo Papelería ETL utiliza las capacidades de las Aplica
 publishDate: 'Nov 18 2026'
 seo:
   image:
-    src: '../../assets/images/project-2.jpg'
+    src: '../../assets/images/project-2.png'
     alt: 'Vista previa del dashboard de Papelería ETL mostrando gráficos de ventas por país y categoría'
 ---
 
-![Vista previa de Papelería ETL](../../assets/images/project-2.jpg)
+![Vista previa de Papelería ETL](../../assets/images/project-2.png)
 
 **Nota:** Este artículo forma parte de la documentación académica del proyecto "Papelería ETL", desarrollado para la materia de Extracción de Bases de datos en la Universidad Tecnológica Fidel Velázquez (grupo DGS 902).
 
