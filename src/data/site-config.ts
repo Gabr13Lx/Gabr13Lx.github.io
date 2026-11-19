@@ -23,10 +23,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Proyectos',
             href: '/projects'
-        },
-        {
-            text: 'Blog',
-            href: '/blog'
         }
     ],
     footerNavLinks: [
@@ -37,10 +33,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contacto',
             href: '/contact'
-        },
-        {
-            text: 'Términos',
-            href: '/terms'
         }
     ],
     socialLinks: [
