@@ -4,7 +4,7 @@ description: Un vistazo al desarrollo de Papelería ETL, un sistema que automati
 publishDate: 'Nov 18 2026'
 ---
 
-![Vista previa de Papelería ETL](../../assets/images/proyect-2.png)
+![Vista previa de Papelería ETL](../../assets/images/project-2.png)
 
 **Nota:** Este artículo forma parte de la documentación académica del proyecto "Papelería ETL", desarrollado para la materia de Extracción de Bases de datos en la Universidad Tecnológica Fidel Velázquez (grupo DGS 902).
 
