@@ -8,7 +8,7 @@ seo:
     alt: 'Vista previa del dashboard de Papelería ETL mostrando gráficos de ventas por país y categoría'
 ---
 
-![Vista previa de Papelería ETL](../../assets/images/papeleria-etl-preview.jpg)
+![Vista previa de Papelería ETL](../../assets/images/proyect-2.png)
 
 **Nota:** Este artículo forma parte de la documentación académica del proyecto "Papelería ETL", desarrollado para la materia de Extracción de Bases de datos en la Universidad Tecnológica Fidel Velázquez (grupo DGS 902).
 

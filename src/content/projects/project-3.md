@@ -4,11 +4,11 @@ description: Descubre cómo SONIDEROS utiliza una arquitectura MVC personalizada
 publishDate: 'Nov 18 2026'
 seo:
   image:
-    src: '../../assets/images/sonideros-preview.jpg'
+    src: '../../assets/images/project-3.png'
     alt: 'Vista previa del panel de administración de SONIDEROS mostrando tarjetas de reservas y el selector de paletas de colores'
 ---
 
-![Vista previa de SONIDEROS](../../assets/images/sonideros-preview.jpg)
+![Vista previa de SONIDEROS](../../assets/images/project-3.png)
 
 **Nota:** Este artículo forma parte de la documentación del proyecto **"SONIDEROS"**, una plataforma SaaS (Software as a Service) desarrollada para digitalizar la operación de empresas dedicadas al sonido, iluminación y organización de eventos en México.
 
