@@ -4,7 +4,7 @@ description: Un vistazo al desarrollo de Papelería ETL, un sistema que automati
 publishDate: 'Nov 18 2026'
 seo:
   image:
-    src: '../../assets/images/papeleria-etl-preview.jpg'
+    src: '../../assets/images/proyect-2.png'
     alt: 'Vista previa del dashboard de Papelería ETL mostrando gráficos de ventas por país y categoría'
 ---
 
