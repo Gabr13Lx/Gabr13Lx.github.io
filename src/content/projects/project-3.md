@@ -2,10 +2,6 @@
 title: 'SONIDEROS: caso de estudio de una plataforma web SaaS para digitalizar la renta de sonido y eventos'
 description: Descubre cómo SONIDEROS utiliza una arquitectura MVC personalizada en PHP para ofrecer a los sonideros un sistema SaaS de gestión de reservas, catálogo personalizable y aislamiento de datos multiempresa.
 publishDate: 'Nov 18 2026'
-seo:
-  image:
-    src: '../../assets/images/project-3.png'
-    alt: 'Vista previa del panel de administración de SONIDEROS mostrando tarjetas de reservas y el selector de paletas de colores'
 ---
 
 ![Vista previa de SONIDEROS](../../assets/images/project-3.png)

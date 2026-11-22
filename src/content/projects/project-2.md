@@ -2,10 +2,6 @@
 title: 'Papelería ETL: caso de estudio de un proyecto ETL de datos'
 description: Un vistazo al desarrollo de Papelería ETL, un sistema que automatiza la extracción, limpieza y análisis de ventas e inventario, unificando datos desde MySQL, Excel y una API de tipo de cambio.
 publishDate: 'Nov 18 2026'
-seo:
-  image:
-    src: '../../assets/images/proyect-2.png'
-    alt: 'Vista previa del dashboard de Papelería ETL mostrando gráficos de ventas por país y categoría'
 ---
 
 ![Vista previa de Papelería ETL](../../assets/images/proyect-2.png)
